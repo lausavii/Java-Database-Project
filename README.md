@@ -14,5 +14,4 @@ Print the database, as a DefaultTableModel.
 
 Walkthrough Video:
 
-https://onedrive.live.com/?photosData=%2Fshare%2F8F0BA75F280E36C5%21sf04e7ff2ad2b4d14b978769de4ec0dbd%3Fithint%3Dvideo%26e%3D95Axkz
-%26migratedtospo%3Dtrue&redeem=aHR0cHM6Ly8xZHJ2Lm1zL3YvYy84ZjBiYTc1ZjI4MGUzNmM1L0VmSl9UdkFyclJSTnVYaDJuZVRzRGIwQnBSQ0lUZ0lBT0ZyOUYzMjlqbW5IZ2c%5FZT05NUF4a3o&view=8
+https://onedrive.live.com/?photosData=%2Fshare%2F8F0BA75F280E36C5%21sf04e7ff2ad2b4d14b978769de4ec0dbd%3Fithint%3Dvideo%26e%3D95Axkz%26migratedtospo%3Dtrue&redeem=aHR0cHM6Ly8xZHJ2Lm1zL3YvYy84ZjBiYTc1ZjI4MGUzNmM1L0VmSl9UdkFyclJSTnVYaDJuZVRzRGIwQnBSQ0lUZ0lBT0ZyOUYzMjlqbW5IZ2c%5FZT05NUF4a3o&view=8
