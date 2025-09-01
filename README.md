@@ -1,3 +1,7 @@
+Author: Laura Savinon
+Course: COP 3330C
+CRN: 33777
+
 This programming projects features the use of Java along with SQLite to create a University Database that holds student information.
 
 This project shows how to create a database, and how we can write a Java application to connect to a database, print out its contents, or modify its information.
